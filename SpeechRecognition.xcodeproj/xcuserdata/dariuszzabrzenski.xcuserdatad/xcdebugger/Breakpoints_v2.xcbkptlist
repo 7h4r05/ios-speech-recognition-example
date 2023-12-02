@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D1662D30-AAF2-41B7-81C0-D43818DAC5DF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB1A612F-1C3E-4127-89C4-160160590564"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpeechRecognition/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "showAlert(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1C8B651-D062-4DEB-B293-14846684F4A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpeechRecognition/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "setUpTrainingData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E1C8B651-D062-4DEB-B293-14846684F4A6 - f68fd61b6a74a04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SpeechRecognition.ContentView.setUpTrainingData() -&gt; ()"
+                  moduleName = "SpeechRecognition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariuszzabrzenski/Projects/github/speech-recognizer/SpeechRecognition/SpeechRecognition/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "E1C8B651-D062-4DEB-B293-14846684F4A6 - ea2cf8dca4b26c45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SpeechRecognition.ContentView.setUpTrainingData() -&gt; ()"
+                  moduleName = "SpeechRecognition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariuszzabrzenski/Projects/github/speech-recognizer/SpeechRecognition/SpeechRecognition/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "E1C8B651-D062-4DEB-B293-14846684F4A6 - c9e0c65faa8c8de3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SpeechRecognition.ContentView.setUpTrainingData() -&gt; ()"
+                  moduleName = "SpeechRecognition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariuszzabrzenski/Projects/github/speech-recognizer/SpeechRecognition/SpeechRecognition/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "E1C8B651-D062-4DEB-B293-14846684F4A6 - c9e0c65faa8c8d86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SpeechRecognition.ContentView.setUpTrainingData() -&gt; ()"
+                  moduleName = "SpeechRecognition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariuszzabrzenski/Projects/github/speech-recognizer/SpeechRecognition/SpeechRecognition/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "679CEEE4-74A1-4505-A1E5-ADB46D560F66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpeechRecognition/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "initiateRecording()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04603605-111C-4DCF-AAA5-20D6C567772B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpeechRecognition/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "initiateRecording()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04603605-111C-4DCF-AAA5-20D6C567772B - 6c9fbb16ac4395c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.SFSpeechRecognitionResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpeechRecognition.ContentView.initiateRecording() -&gt; ()"
+                  moduleName = "SpeechRecognition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariuszzabrzenski/Projects/github/speech-recognizer/SpeechRecognition/SpeechRecognition/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+               <Location
+                  uuid = "04603605-111C-4DCF-AAA5-20D6C567772B - 6c9fbb16ac43926c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.SFSpeechRecognitionResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpeechRecognition.ContentView.initiateRecording() -&gt; ()"
+                  moduleName = "SpeechRecognition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariuszzabrzenski/Projects/github/speech-recognizer/SpeechRecognition/SpeechRecognition/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8FBC765-7A06-4468-8719-8C363F45235E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpeechRecognition/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "initiateRecording()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5FF1494-935C-4507-8FF0-00E655EC5E04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpeechRecognition/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "initiateRecording()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5FF1494-935C-4507-8FF0-00E655EC5E04 - 6c9fbb16ac4397d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.SFSpeechRecognitionResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpeechRecognition.ContentView.initiateRecording() -&gt; ()"
+                  moduleName = "SpeechRecognition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariuszzabrzenski/Projects/github/speech-recognizer/SpeechRecognition/SpeechRecognition/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "2424">
+               </Location>
+               <Location
+                  uuid = "B5FF1494-935C-4507-8FF0-00E655EC5E04 - 6c9fbb16ac4397d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.SFSpeechRecognitionResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpeechRecognition.ContentView.initiateRecording() -&gt; ()"
+                  moduleName = "SpeechRecognition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariuszzabrzenski/Projects/github/speech-recognizer/SpeechRecognition/SpeechRecognition/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "2484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D50330B-6908-4D3B-BF87-5E590661700A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpeechRecognition/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "initiateRecording()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
